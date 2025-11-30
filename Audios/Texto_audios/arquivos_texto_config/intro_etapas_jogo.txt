@@ -1,0 +1,49 @@
+/coment {Introdução – Boas-vindas}
+
+Olá! Seja bem-vindo à plataforma Se Liga Aí!
+Aqui você vai brincar, explorar e aprender usando o toque e a audição.
+
+/space
+
+Antes de começarmos, você pode usar o modo de mapeamento para conhecer toda a plataforma.
+Se quiser ativá-lo, aperte o botão que fica na lateral direita.
+
+/space
+
+Se você preferir ir direto para as atividades, é só esperar um pouquinho.
+Em alguns instantes, vamos para a escolha dos jogos!
+
+
+/coment {Seleção de Jogo – Início}
+
+/space
+Agora é hora de escolher qual jogo você quer jogar!
+Navegue pelos jogos com os botões 1 e 3 e confirme com o botão da lateral esquerda
+
+/coment {Seleção de Dificuldade – Explicação}
+
+/space
+Muito bem! Agora vamos escolher a dificuldade do jogo. Não esqueça de confirmar a dificuldade com o botão da lateral esquerda
+
+/coment {Jogo Pronto}
+
+/space
+O jogo está pronto!
+Lembre que, após estabelecer todas as conexões você deve apertar no botão de teste.
+
+/space
+
+/coment {Início do Jogo}
+
+Vamos começar!
+Aperte os botões das colunas,na parte superior da plataforma, ouça os audios e interligue os pinos
+Escute com atenção as instruções e use o toque para montar a resposta.
+
+/space
+
+Se precisar de ajuda, lembre que você pode apertar o botão de mapeamento,
+que fica na lateral direita da plataforma.
+
+/space
+
+Boa sorte! Vamos brincar e aprender juntos!

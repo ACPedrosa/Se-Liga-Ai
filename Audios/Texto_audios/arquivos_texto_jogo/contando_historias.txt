@@ -1,0 +1,67 @@
+/header{Contando Histórias}
+/space
+/description {Aprenda matemática contando histórias divertidas}
+/space
+/coment {Pergunta 01 – A Fazendinha}
+Seu João tem uma fazenda. Nela há 2 bezerros, 4 vacas, 3 galinhas e 1 porquinho.
+Quantos animais tem ao todo?
+/space
+
+/coment {Pergunta 02 – As Saias da Barata}
+
+A barata disse que tem 10 saias. Mas descobrimos que só 1 é verdadeira.
+Quantas saias ela inventou?
+/space
+
+/coment {Pergunta 03 – O Pato na Lagoa}
+
+Na lagoa existia uma mãe pata e seus 7 patinhos. Três foram passear.
+Quantos patos sobraram?
+/space
+
+/coment {Pergunta 04 – A Galinha do Vizinho}
+
+A galinha botou 8 ovos. A outra galinha botou 5.
+Quantos ovos temos ao todo?
+/space
+
+/coment {Pergunta 05 – A Dona Aranha}
+
+A Dona Aranha teceu 3 teias pela manhã. De tarde, teceu mais 5.
+Quantas teias ela teceu ao todo?
+/space
+
+/coment {Pergunta 06 – Contando com Mariana}
+
+Mariana gosta de contar. Hoje ela contou até 20.
+Ontem ela tinha contado até 47.
+Ao todo, quanto Mariana contou?
+/space
+
+/coment {Resposta 01}
+
+10
+/space
+
+/coment {Resposta 02}
+
+9
+/space
+
+/coment {Resposta 03}
+5
+/space
+
+/coment {Resposta 04}
+13
+/space
+
+/coment {Resposta 05}
+8
+
+/space
+
+/coment {Resposta 06}
+67
+/space
+

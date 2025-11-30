@@ -1,0 +1,92 @@
+/coment {Números para leitura das conexões}
+Um
+
+/space
+
+Dois
+
+/space
+
+Três
+
+/space
+
+Quatro
+
+/space
+
+Cinco
+
+/space
+
+Seis
+
+/space
+
+Sete
+
+/space
+
+Oito 
+
+/space
+
+Nove 
+
+/space
+
+Dez 
+
+/space
+
+Onde 
+
+/space
+
+Doze
+
+/space
+
+/coment {Interaçãi - feedbacl conexões}
+
+Vamos verificar as conexões.
+
+/space
+
+A Conexão
+
+/space
+
+e
+
+/space
+
+está errada.
+
+/space
+
+/coment{Feedback - medio}
+
+existem
+
+/space
+
+Conexões incorretas
+
+/coment {Feedback - dificil}
+
+Alguma das conexões não está certa.
+
+
+/coment{Ajuste e Parabéns}
+
+Tente Novamente! Ajuste as conexões e depois pressione o botão de teste.
+
+/space
+
+Parabéns! Você conseguiu completar todas as conexões! Pode escolher um novo jogo 
+
+
+/coment {Conexões incompletas}
+
+Há conexões incompletas, termine todas as conexões para pressionar o botão de teste

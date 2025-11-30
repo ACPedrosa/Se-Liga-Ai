@@ -1,0 +1,119 @@
+/space
+/coment {Parte superior – área principal de interação}
+
+Vamos começar a conhecer a nossa plataforma!
+Coloque as mãos à sua frente. Tudo o que você sentir é a área onde vamos brincar e aprender.
+
+/space
+
+Lá na parte de cima da plataforma ficam as coisas mais importantes do jogo.
+Passe a sua mão de cima para baixo e depois da direita para a esquerda.
+Você vai perceber quatro fileiras. Cada fileira tem botões ou pinos para você usar durante o jogo.
+
+/space
+
+Bem no topo, você encontra uma linha com botões grandes e redondos.
+Eles são fáceis de sentir. Esses botões vão do número um até o seis, de cima para baixo.
+
+/space
+
+Logo ao lado, existem duas fileiras com pequenos conectores.
+Eles são baixinhos ao toque. Eles servem para ligar ideias e montar as respostas durante o jogo.
+
+/space
+
+Mais ao lado, você vai encontrar outra fileira com botões grandes, parecidos com os primeiros.
+Passe a mão e sinta os botões do sete ao doze, todos enfileiradinhos.
+
+/space
+
+/coment {Parte frontal inclinada – botões de navegação e confirmação}
+
+Agora, deslize a mão para a parte da frente da plataforma.
+Você vai sentir uma parte que faz uma pequena rampinha.
+É a área inclinada! Aqui ficam os botões que ajudam você a escolher o jogo e a dificuldade.
+
+/space
+
+No lado direito dessa área, tem três botões redondos.
+Eles são usados para navegar entre os jogos.
+O botão da esquerda, que chamamos de botão um, volta para o jogo anterior.
+O botão da direita avança para o próximo jogo.
+
+/space
+
+Quando estiver escolhendo a dificuldade, os botões um, dois e três representam fácil, médio e difícil.
+Basta apertar o botão que corresponde ao nível que você quer.
+
+/space
+
+Para confirmar sua escolha de jogo ou dificuldade, você vai usar o botão de confirmação.
+Para encontrar ele, passe a mão pela lateral esquerda da plataforma.
+
+/space
+
+Perto dos botões redondos, você vai achar um botão que é diferente.
+Ele é compridinho, em formato de retângulo.
+Esse é o botão de teste.
+Ele serve para você conferir se montou tudo certinho durante os jogos.
+
+/space
+
+Agora, leve a mão para a lateral direita da plataforma.
+Ali tem um botão redondo. Ele ativa o modo de mapeamento, caso você precise de ajuda durante o jogo.
+Bem ao lado dele, tem um lugar para conectar o fone de ouvido.
+
+/space
+
+Pronto! Agora você já sabe onde fica cada parte da plataforma.
+Se tiver alguma dúvida, é só apertar o botão da lateral direita para pedir ajuda.
+Agora vamos continuar e escolher o jogo!
+
+
+/space
+/coment {ST_SELEÇÃO_JOGO}
+
+Agora é hora de escolher qual jogo você quer jogar!
+Passe a mão para a parte inclinada da plataforma, onde ficam os botões de navegação.
+
+/space
+
+Você vai encontrar três botões redondos.
+O botão mais a esquerda, botão 1, volta para os jogos anteriores.
+O botão mais a direita, botão 3, passa para o próximo jogo.
+
+/space
+
+Quando encontrar o jogo que você quer, é só apertar o botão de confirmação,
+que fica na lateral esquerda da plataforma.
+
+/coment {ST_SELECAO_DIFICULDADE}
+
+/space
+
+Na mesma parte inclinada da plataforma, você vai sentir três botões redondos.
+Eles representam os níveis de dificuldade.
+
+/space
+
+O botão um é o nível fácil.
+O botão dois é o médio.
+O botão três é o difícil.
+
+/space
+
+Para escolher, basta apertar o botão correspondente ao nível que você quer jogar.
+Depois, confirme usando o botão de confirmação na lateral esquerda.
+
+/coment {ST_JOGO_PRONTO}
+
+/space
+
+Nessa etapa, você vai ver que a plataforma tem várias colunas com botões. Primeiro, aperte cada botão e escute com atenção o áudio que ele falar. Cada botão diz uma informação importante.
+
+/space
+Depois de ouvir todos, você vai escolher quais informações combinam entre si. Para isso, use os fios conectores para ligar uma coluna à outra, fazendo as duplas que você acha que estão corretas.
+
+/space
+Quando terminar todas as ligações, aperte o botão de teste.
+Ele vai verificar se você acertou.

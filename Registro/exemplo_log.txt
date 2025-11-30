@@ -1,0 +1,41 @@
+==============================================
+     REGISTRO DE TENTATIVAS DO SISTEMA
+     Gerado em 26/11/2025 às 17:55:57
+==============================================
+
+=== INÍCIO DO REGISTRO - TENTATIVA 1 ===
+
+NÍVEL DE DIFICULDADE: 1
+
+QUANTIDADE DE INCORRETAS: 5
+
+LISTA DE CONEXÕES:
+-> Par 5 -> 7: Incorreto
+-> Par 3 -> 9: Correto
+-> Par 6 -> 11: Incorreto
+-> Par 2 -> 12: Incorreto
+-> Par 4 -> 8: Incorreto
+-> Par 1 -> 10: Incorreto
+
+=== FIM DO REGISTRO ===
+
+----------------------------------------------
+
+===== INÍCIO DO REGISTRO - TENTATIVA 2 ===
+
+NÍVEL DE DIFICULDADE: 1
+
+QUANTIDADE DE INCORRETAS: 3
+
+LISTA DE CONEXÕES:
+-> Par 5 -> 7: Incorreto
+-> Par 3 -> 9: Correto
+-> Par 6 -> 11: Incorreto
+-> Par 2 -> 12: Incorreto
+-> Par 4 -> 10: Correto
+-> Par 1 -> 8: Incorreto
+
+=== FIM DO REGISTRO ===
+
+----------------------------------------------
+

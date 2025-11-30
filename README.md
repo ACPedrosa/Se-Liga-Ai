@@ -21,8 +21,12 @@ Este repositório contém os seguintes recursos:
 - **Código-Arduino/**: Código-fonte desenvolvido para os sistemas embarcados.
 - **Documentos/**:
   - Documento de requisitos do software.
-  - Arquivos de modelagem 3D dos dispositivos utilizados.
-  - Diagramas de modelagem e arquitetura do sistema.
+  - Arquivos de modelagem 3D e do protótipo esquemático
+  - Diagramas de modelagem
+- **Audios/**: Arquivos e scripts usados para a geração automática de audios.
+  - **Scripts/** : script que gera audios a partir de textos
+  - **Texto_audios/**:textos utilizados para gerar os audios da plataforma
+- **Registro/**: script que faz o registro dos dados do jogo.
   
 ## Como Executar o Código
 
