@@ -6,7 +6,7 @@ Os dados são armazenados em um arquivo **.txt** com horário e data de log.
 
 ---
 
-## ✅ Funcionalidades Principais
+## Funcionalidades Principais
 
 * **Detecção automática** da porta serial onde o Arduino está conectado.
 * **Conexão estável** com tratamento de erros e tentativas de reconexão.
@@ -26,7 +26,7 @@ Os dados são armazenados em um arquivo **.txt** com horário e data de log.
 
 ---
 
-## 🚀 Como o Script Funciona
+## Funcionamento
 
 O script é dividido em funções que gerenciam cada etapa do processo:
 
