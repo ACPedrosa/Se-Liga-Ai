@@ -39,7 +39,7 @@ Dez
 
 /space
 
-Onde 
+Onze 
 
 /space
 
@@ -57,7 +57,7 @@ A Conexão
 
 /space
 
-e
+i
 
 /space
 
@@ -75,9 +75,11 @@ Conexões incorretas
 
 /coment {Feedback - dificil}
 
+/space
+
 Alguma das conexões não está certa.
 
-
+/space
 /coment{Ajuste e Parabéns}
 
 Tente Novamente! Ajuste as conexões e depois pressione o botão de teste.
@@ -86,6 +88,7 @@ Tente Novamente! Ajuste as conexões e depois pressione o botão de teste.
 
 Parabéns! Você conseguiu completar todas as conexões! Pode escolher um novo jogo 
 
+/space
 
 /coment {Conexões incompletas}
 

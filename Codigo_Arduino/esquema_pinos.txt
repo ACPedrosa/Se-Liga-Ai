@@ -1,0 +1,53 @@
+         +-----+
+         +----[PWR]-------------------| USB |--+
+         |                            +-----+  |
+         |         GND/RST2  [ ] [ ]           |
+         |         MOSI2/SCK2[ ] [ ]   SCL[ ]  |  D0
+         |          5V/MISO2 [ ] [ ]   SDA[ ]  |  D1
+         |                            AREF[ ]  |
+         |                             GND[ ]  |
+         | [ ]N/C                       13[ ]~ |  B7
+         | [ ]IOREF                     12[ ]~ |  B6
+         | [ ]RST                       11[ ]~ | <--- RX do DFPLayer (D11)
+         | [ ]3V3   +----------+        10[X]~ | <--- TX do DFPlayer (D10)
+         | [ ]5v    | ARDUINO  |         9[ ]~ |  H6
+         | [ ]GND   |   MEGA   |         8[ ]~ |  H5
+         | [ ]GND   +----------+               |
+         | [ ]Vin                         7[X]~| <--- BTN_MAP
+         |                                6[X]~| <--- BTN_CONFIRMA
+         | [ ]A0                          5[X]~| <--- LED_REGISTRO
+         | [ ]A1                          4[ ]~|  G5
+         | [ ]A2                     INT5/3[ ]~|  E5
+         | [ ]A3                     INT4/2[ ]~|  E4
+         | [ ]A4                       TX>1[ ]~|  E1
+         | [ ]A5                       RX<0[ ]~|  E0
+         | [ ]A6                               |
+         | [ ]A7                     TX3/14[ ] |  J1
+         | [ ]A8                     RX3/15[ ] |  J0
+         | [ ]A9                     TX2/16[ ] |  H1
+         | [ ]A10                    RX2/17[ ] |  H0
+         | [ ]A11               TX1/INT3/18[ ] |  D3
+         | [ ]A12               RX1/INT2/19[ ] |  D2
+         | [ ]A13           I2C-SDA/INT1/20[ ] |  D1
+         | [ ]A14           I2C-SCL/INT0/21[ ] |  D0
+         | [ ]A15                               |
+
+         |                                      |   Ports:
+         |             RST SCK MISO             |    22[X]  23[X]   <-- pinButtons
+         |        ICSP [ ] [ ] [ ]              |    24[X]  25[X]   <-- pinButtons
+         |             [ ] [ ] [ ]              |    26[X]  27[X]   <-- pinButtons
+         |             GND MOSI 5V              |    28[X]  29[X]   <-- pinButtons
+         | G                                    |    30[X]  31[X]   <-- pinButtons
+         | N 5 5 4 4 4 4 4 3 3 3 3 3 2 2 2 2 5  |    32[X]  33[X]   <-- pinButtons
+         | D 2 0 8 6 4 2 0 8 6 4 2 0 8 6 4 2 V  |    34[X]  35[X]   <-- aPins
+         |           ~ ~                        |    36[X]  37[X]   <-- aPins
+         | @ # # # # # # # # # # # # # # # # @  |    38[X]  39[X]   <-- aPins
+         | @ # # # # # # # # # # # # # # # # @  |    40[X]  41[X]   <-- bPins
+         |             ~                        |    42[X]  43[X]   <-- bPins
+         | G 5 5 4 4 4 4 4 3 3 3 3 3 2 2 2 2 5  |    44[X]  45[X]   <-- bPins
+         | N 3 1 9 7 5 3 1 9 7 5 3 1 9 7 5 3 V  |    46[X]  47[X]   <-- pinButtonsConfig/Dificuldade
+         | D                                    |    48[X]  49[X]   <-- Seleção de Dificuldade
+         |                                      |   SPI:
+         |                            ____________/    50[ ]  51[ ]    50=MISO 51=MOSI
+         |   2560                     |                52[ ]  53[ ]    52=SCK  53=SS
+          \_______________________/
